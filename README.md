@@ -1,1 +1,1 @@
-# mathematical-finance
+# My past teaching materials.

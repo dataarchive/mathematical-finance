@@ -1,5 +1,5 @@
- # My Past Teaching Materials for Mathematical Finance
+# My Past Teaching Materials for Mathematical Finance
 
-My notes are mainly based on my teaching slides (firstly prepared in spring 2017) and were incorporated into Hong Liu's lecture notes in 2019. Unfortunately, I don't have the copyright of his part.
+I wrote these notes in the hope that after this class, students can understand the idea behind portfolio choice rather than solving differential equations mechanically, since computers are much better at the latter than most human beings. My notes include necessary background knowledge in probability and optimization, which I learned from other classes (e.g., Prof. Chen's probability theory at Peking University, Prof. Kadan's stochastic calculus and Prof. Mukai's optimization at WashU).
 
- You can use my materials under CC BY-NC. That is, you can ["remix, adapt, and build upon [my] work non-commercially,"](https://creativecommons.org/about/cclicenses/) as long as __you credit me__. This is for your benefit--- ["taking someone else's ideas, words or other types of work product and presenting them as one's own"](https://wustl.edu/about/compliance-policies/academic-policies/undergraduate-student-academic-integrity-policy/#:~:text=1.,presenting%20them%20as%20one's%20own) is __plagiarism__.
+My notes are mainly based on my teaching slides, which I first prepared in spring 2017 and revised a few times based on students' feedback.  In 2019, these notes were integrated into Hong Liu's lecture notes.
